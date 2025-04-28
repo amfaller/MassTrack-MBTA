@@ -8,6 +8,8 @@ MassTrack is a privacy project developed across two seminars at Columbia Univers
 
 This repository contains the Jupyter notebook corresponding to **COMS E6156**, focusing on examining privacy vulnerabilities in publicly-available MBTA (Massachusetts Bay Transportation Authority) data -- specifically, analyzing pseudo-identifiers which may compromise user privacy.
 
+The Private Systems portion of MassTrack can be found here: [https://github.com/amfaller/MassTrack-BlueBike](https://github.com/amfaller/MassTrack-BlueBike)
+
 ## Threat Model
 This project assumes an adversary who knows:
 * The T station a person left from
