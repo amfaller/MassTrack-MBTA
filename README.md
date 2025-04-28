@@ -17,4 +17,4 @@ It was hypothesized that this information, when used in conjunction with the pub
 ## Reproduction
 The Jupyter notebook can be imported to Google Colab natively (there is a link within the notebook in this repository), or otherwise run locally. It is not advised to run locally; the target MBTA data is a .zip file which is already 1.3 GB large, and extracting this may overwhelm system RAM.
 
-All findings are contained within the notebook. If one wishes to reproduce this project, one only needs to run all of the code cells contained in the notebook.
+All findings and explanations are contained within the notebook. If one wishes to reproduce this project, one only needs to run all of the code cells contained in the notebook.
