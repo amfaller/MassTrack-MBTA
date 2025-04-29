@@ -31,4 +31,6 @@ Please note that this dataset is rather large (a 1.3GB .zip file). Extracting & 
 ## Reproduction
 The Jupyter notebook can be imported to Google Colab natively (there is a link within the notebook in this repository), or otherwise run locally. It is not advised to run locally unless sufficient memory resources are available.
 
-Findings, explanation, and discussion are contained within the notebook itself. A link to the final report of this project will be provided once it is available.
+Findings, explanation, and discussion are contained within the notebook itself. Milestone reports (including the final report which formally discusses these results) is available within the [`milestones`](./milestones) directory.
+
+Additionally, a brief video discussion is available here: [https://youtu.be/gxN9MOQL2do](https://youtu.be/gxN9MOQL2do)
